@@ -73,7 +73,7 @@ const SendOtpComponent = () => {
 
   return (
     <div style={styles.container}>
-      <h2>Send OTP Prank By Xhahzad Bhai!</h2>
+      <h2>Send OTP Prank Malik Xhahzad!</h2>
       <form onSubmit={handleSubmit} style={styles.form}>
         <div style={styles.inputGroup}>
           <label htmlFor="mobileNo" style={styles.label}>
